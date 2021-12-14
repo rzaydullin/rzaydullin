@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rzaydullin
 - 👀 I’m interested in IBM ELM
-- 🌱 I’m currently learning what else can I use from CPAN
+- 🌱 I’m currently learning what else can I use from meta::cpan for Strawberry Perl with Atom
 - 💞️ I’m looking to collaborate on SW development 
 - 📫 How to reach me: rzaydullin@gmail.com
 
